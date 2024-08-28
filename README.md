@@ -43,7 +43,7 @@
 <a href="https://ibb.co/M6tZStv"><img src="https://i.ibb.co/C2Ym8Yc/Indicacion-3.png" alt="Indicacion-3" border="0"></a>
 
 <h1 align="left"> :round_pushpin:Personas-Desarrolladores del Proyecto :raising_hand: @Smith.Chava </h1> 
-<h1 align="left"> :pencil2: Concludión :page_with_curl: </h1>
+<h1 align="left"> :pencil2: Conclusión :page_with_curl: </h1>
 <h6 align="left"> Este proyecto fue elaborado con el fin de cumplir los requisitos por el programa Alura Latam en apoyo del programa Oracle Next Education con el fin de aprobar los 
   fundamentos de la programación, es un reflejo de lo aprendido en los cursos tomados y de la capacidad de hacer llevar adelante un proyecto. 
   Es una herramienta basica de encriptador de texto que permite al usuario una experiencia de poder cifrar conversaciones si asi lo desea u otro tipos de textos,
